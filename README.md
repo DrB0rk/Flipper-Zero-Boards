@@ -11,4 +11,6 @@ in the making:
 
 Check out my [tindie](https://www.tindie.com/stores/drb0rk/) store if you dont feel like getting the boards manufactured yourself!
 
+More information about the modules and GPIO [here](https://github.com/UberGuidoZ/Flipper/blob/main/GPIO/ReadMe.md)
+
 let me know if  you have any more board ideas!
