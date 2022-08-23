@@ -5,11 +5,9 @@ a collection of boards ive designed for the Flipper zero. more are on their way!
 - ESP32 Board
 - NRF24 Board
 - Multi Board (ESP32, NRF24 and Sentry safe)
+- NRF24 Board v2
 
 ## in the making:
-### NRF24 Board v2
-changes:
-- adding decoupling capacitors
 
 ### Multiboard v2
 changes:
