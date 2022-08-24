@@ -11,6 +11,8 @@ Here are the components on the board:
 - D1: 2v 20mA red led
 - R1: 68 R 
 
+All components are SMD 1206 size
+
 ![board front](https://github.com/DrB0rk/Flipper-Zero-Boards/blob/main/NRF24%20board%20V2/pics/nrf-v2-front.png)
 
 ![board back](https://github.com/DrB0rk/Flipper-Zero-Boards/blob/main/NRF24%20board%20V2/pics/nrf-v2-back.png)
