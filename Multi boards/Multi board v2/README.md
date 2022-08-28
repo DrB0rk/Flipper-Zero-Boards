@@ -1,5 +1,7 @@
 # Multi Board Flipper Zero v2
 
+Add on board for the Flipper zero based on the ESP32-S3 WROOM 1 and NRF24 modules.
+
 ## what this board contains:
 - NRF24 (with decoupling capacitors)
 - ESP32 (with necessary components)
