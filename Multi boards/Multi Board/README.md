@@ -14,6 +14,6 @@
 
 ### all components are smd 1206
 
-![board front](https://github.com/DrB0rk/Flipper-Zero-Boards/blob/main/Multi%20Boards/Multi%20Board/pics/board%20front.png)
+![board front](https://github.com/DrB0rk/Flipper-Zero-Boards/blob/main/Multi%20boards/Multi%20Board/pics/board%20front.png)
 
-![board back](https://github.com/DrB0rk/Flipper-Zero-Boards/blob/main/Multi%20Boards/Multi%20Board/pics/board%20back.png)
+![board back](https://github.com/DrB0rk/Flipper-Zero-Boards/blob/main/Multi%20boards/Multi%20Board/pics/board%20back.png)
