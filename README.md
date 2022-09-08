@@ -1,4 +1,7 @@
 # Flipper-Zero-Boards
+
+## im selling the boards on my website [here](https://www.bork-electronics.com/)
+
 a collection of boards ive designed for the Flipper zero. more are on their way!
 
 ## currently these are the boards ive finished:
@@ -14,7 +17,7 @@ a collection of boards ive designed for the Flipper zero. more are on their way!
 
 ## stay tuned!
 
-Check out my [tindie](https://www.tindie.com/stores/drb0rk/) store if you dont feel like getting the boards manufactured yourself!
+Check out my [store](https://www.bork-electronics.com/) store if you dont feel like getting the boards manufactured yourself!
 
 More information about the modules and GPIO [here](https://github.com/UberGuidoZ/Flipper/blob/main/GPIO/ReadMe.md)
 
