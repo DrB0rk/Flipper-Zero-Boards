@@ -11,19 +11,26 @@ Add on board for the Flipper zero based on the ESP32-S3 WROOM 1 and NRF24 module
 - SD card reader
 
 ## components:
-* D1: 2V LED 
-* R1: 68 R
-* R2: 1K R
-* C1: 22 uF
-* C2: 0.1 uF
-* C3: 0.1 uF
-* C4: 10 uF
-* C5: 1 uF
+* D1: 2V 20mA 12mcd 120° LED 
+* R1: 68 R resistor
+* R2: 1K R resistor
+* C1: 22 uF capacitor
+* C2: 0.1 uF capacitor
+* C3: 0.1 uF capacitor
+* C4: 10 uF capacitor
+* C5: 1 uF capacitor
 * 2 switch dip switch
-* Push button
+* Push button length: 6mm width: 3.5mm hieght: 4.3mm
 
+## info for compnents:
 ### all components are smd 1206
+as for the capacitors and the resistors the voltage doesnt really matter, just get the lowest one that suits your budget. i have some that are 16v and some that are 50v.
 
+for the led the voltage and amprage have to be like in the list, but the brightness (mcd) and angle (°) dont matter and are up to you.
+
+
+
+# Pictures:
 ![board front](https://github.com/DrB0rk/Flipper-Zero-Boards/blob/main/Multi%20boards/Multi%20board%20v2/pics/multi3_front.png)
 
 ![board back](https://github.com/DrB0rk/Flipper-Zero-Boards/blob/main/Multi%20boards/Multi%20board%20v2/pics/board3%20back.png)
