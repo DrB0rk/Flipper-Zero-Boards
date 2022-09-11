@@ -1,3 +1,5 @@
+# CURRENTLY HAS A DESIGN FLAW
+
 # Multi Board Flipper Zero v2
 
 Add on board for the Flipper zero based on the ESP32-S3 WROOM 1 and NRF24 modules.
