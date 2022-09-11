@@ -2,6 +2,8 @@
 
 ## im selling the boards on my website [here](https://www.bork-electronics.com/)
 
+## join my discord         --> [here](https://discord.gg/AVAeRuQTN2)
+
 a collection of boards ive designed for the Flipper zero. more are on their way!
 
 ## currently these are the boards ive finished:
