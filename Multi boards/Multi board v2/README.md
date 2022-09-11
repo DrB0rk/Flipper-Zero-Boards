@@ -1,5 +1,7 @@
 # CURRENTLY HAS A DESIGN FLAW
 
+dipswitch size is wrong and io for the esp has some mistakes.
+
 # Multi Board Flipper Zero v2
 
 Add on board for the Flipper zero based on the ESP32-S3 WROOM 1 and NRF24 modules.
@@ -30,7 +32,9 @@ as for the capacitors and the resistors the voltage doesnt really matter, just g
 
 for the led the voltage and amprage have to be like in the list, but the brightness (mcd) and angle (°) dont matter and are up to you.
 
+The dip switch is used to choose between the esp and the nrf. or turn them both on or off. 
 
+the push button is the boot button for the esp. 
 
 # Pictures:
 ![board front](https://github.com/DrB0rk/Flipper-Zero-Boards/blob/main/Multi%20boards/Multi%20board%20v2/pics/multi3_front.png)
