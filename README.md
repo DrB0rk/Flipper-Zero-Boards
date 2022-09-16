@@ -10,7 +10,7 @@ a collection of boards ive designed for the Flipper zero. more are on their way!
 - ESP32 Board
 - NRF24 Board
 - Multi Board (ESP32, NRF24 and Sentry safe)
-- Multi board v2 (adds sd card slot and smd esp module)
+- Multi board v2 (adds sd card slot and smd esp module) HAS A DESIGN FLAW!
 - NRF24 Board v2
 
 ## in the making:
