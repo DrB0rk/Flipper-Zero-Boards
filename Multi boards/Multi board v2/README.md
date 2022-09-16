@@ -23,7 +23,7 @@ Add on board for the Flipper zero based on the ESP32-S3 WROOM 1 and NRF24 module
 * C3: 0.1 uF capacitor
 * C4: 10 uF capacitor
 * C5: 1 uF capacitor
-* 2 switch dip switch
+* 2 switch dip switch (1.27 mm pitch)
 * Push button length: 6mm width: 3.5mm hieght: 4.3mm
 
 ## info for compnents:
