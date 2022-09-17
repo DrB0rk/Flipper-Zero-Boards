@@ -16,7 +16,7 @@ a collection of boards ive designed for the Flipper zero. more are on their way!
 ## in the making:
 
 - Multiboard v3 (v2 fixed version)
-- ESP8266 board
+- ESP8266 board (will maybe be a version of the multiboard, or a board with bboth an esp32 and 8266)
 - SAO badge board
 
 ## stay tuned!
