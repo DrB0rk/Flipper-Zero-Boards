@@ -1,10 +1,18 @@
-# CURRENTLY HAS A DESIGN FLAW
+# CURRENTLY HAS A DESIGN FLAW!!
 
 dipswitch size is wrong and io for the esp has some mistakes.
 
 # Multi Board Flipper Zero v2
 
-Add on board for the Flipper zero based on the ESP32-S3 WROOM 1 and NRF24 modules.
+This board is a combination of a few different add-ons for the flipper in a compact and easy to use form factor! its based on the ESP32-S3 wroom 1/1U and the NRF24 mudules. and has a some more features for eas of use!
+
+## Summary:
+- use NRF sniffer and mousejacker apps on the Flipper to inject keystrokes wirelessly through the NRF24 module
+- use Marauder or any other firmware on the esp32 to do wifi reconnaissance
+- use the Sentry safe pins to open certain brands of safes with just teo wires
+- choose which one of the two (esp or nrf) you want to use with the dip switch
+- programmable through flippers uart to usb app
+
 
 ## what this board contains:
 - NRF24 (with decoupling capacitors)
