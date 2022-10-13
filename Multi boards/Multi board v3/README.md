@@ -38,6 +38,33 @@
 #### All resistors and capacitors are SMD 1206 sized
 ***
 
+## SD card wiring:
+
+The sd card is wired to work with marauder, likt this:
+
+SD card breakout | ESP32 module |
+| ------------- | ------------- |
+| GND  | VCC  |
+| VCC  | GND  |
+| DI  | IO35  |
+| DO  | IO37  |
+| SCK  | IO36  |
+| CS  | IO10  |
+
+## Programming:
+
+Programming can be done through a usb to uart programmer or through the flipper's uart-to-usb app, but i havent always had the best results when using the flipper. So i reccommend using a usb programmer. make sure to program it using 3.3V!
+
+you can connect the programmer to the pins of the multiboard like this:
+
+| programmer  | multiboard  |
+| ---  | ---  |
+| GND  | GND  |
+| VCC  | VCC  |
+| TX  | pin 13  |
+| RX  | pin 14  |
+
+
 ## Pictures
 ![front](https://github.com/DrB0rk/Flipper-Zero-Boards/blob/main/Multi%20boards/Multi%20board%20v3/Pics/front.png)
 ![back](https://github.com/DrB0rk/Flipper-Zero-Boards/blob/main/Multi%20boards/Multi%20board%20v3/Pics/back.png)
