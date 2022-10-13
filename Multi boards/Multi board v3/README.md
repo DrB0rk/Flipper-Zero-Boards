@@ -33,6 +33,8 @@
 
 - S1 & S2: momentary push button switch
 
+- DIP: standard 2.54 pitch 2 pole dip switch
+
 #### All resistors and capacitors are SMD 1206 sized
 ***
 
