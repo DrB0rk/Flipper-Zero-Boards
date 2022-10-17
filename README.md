@@ -10,18 +10,37 @@ a collection of boards ive designed for the Flipper zero. more are on their way!
 - ESP32 Board
 - NRF24 Board
 - Multi Board (ESP32, NRF24 and Sentry safe)
-- Multi board v2 (adds sd card slot and smd esp module) HAS A DESIGN FLAW!
+- OBSOLETE Old Multi board v2 (adds sd card slot and smd esp module) HAS A DESIGN FLAW!
 - NRF24 Board v2
 
 ## in the making:
 
-- Multiboard v3 (v2 fixed version)
+- Bork prototyping boards
+  - [x] design board
+  - [ ] design different sizes
+  - [ ] upload files to repo
+  - [ ] get boards manufactured
+  - [ ] list on store
+
+- New Multiboard v2 (renamed from v3 to v2)
+  - [x] add requiered decoupling caps and other neccessary components
+  - [x] remove programming pins
+  - [x] move sentrysafe pins to better location
+  - [x] test boards with different firmwares
+  - [ ] list on store
+  
 - ESP8266 board (will maybe be a version of the multiboard, or a board with bboth an esp32 and 8266)
+  - [ ] Add ESP8266 to board
+  - [ ] Add the newest shielded NRF24 version 
+  
 - SAO badge board
+  - fun little board to light up badges with the flipper
+  
+
 
 ## stay tuned!
 
-Check out my [store](https://www.bork-electronics.com/) store if you dont feel like getting the boards manufactured yourself!
+Check out my [store](https://www.borkelectronics.com/) store if you dont feel like getting the boards manufactured yourself!
 
 More information about the modules and GPIO [here](https://github.com/UberGuidoZ/Flipper/blob/main/GPIO/ReadMe.md)
 
