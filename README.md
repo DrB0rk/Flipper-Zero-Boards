@@ -31,7 +31,7 @@ a collection of boards ive designed for the Flipper zero. more are on their way!
 
 ## stay tuned!
 
-Check out my [store](https://www.borkelectronics.com/) store if you dont feel like getting the boards manufactured yourself!
+Check out my [store](https://www.borklab.com/) store if you dont feel like getting the boards manufactured yourself!
 
 More information about the modules and GPIO [here](https://github.com/UberGuidoZ/Flipper/blob/main/GPIO/ReadMe.md)
 
