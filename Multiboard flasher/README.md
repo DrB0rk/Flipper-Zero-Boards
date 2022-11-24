@@ -7,7 +7,7 @@ This flasher will help you install marauder on your multiboard with an ESP32 S2.
 
 there are a few steps you need to follow:
 
-1. download the latest marauder firmware from [here[(https://github.com/justcallmekoko/ESP32Marauder/releases/tag/v0.9.18), make sure it ends in `flipper.bin`
+1. download the latest marauder firmware from [here](https://github.com/justcallmekoko/ESP32Marauder/releases/tag/v0.9.18), make sure it ends in `flipper.bin`
 2. put it in the folder named marauder and name it `esp32_marauder.bin` exactly. 
 3. go back one folder and double click `flash.bat`
 4. fill in your com port and let it do its thing
