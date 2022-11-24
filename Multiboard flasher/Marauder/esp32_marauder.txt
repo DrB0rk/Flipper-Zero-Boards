@@ -1,0 +1,1 @@
+REPLACE ME WITH esp32_marauder.bin
