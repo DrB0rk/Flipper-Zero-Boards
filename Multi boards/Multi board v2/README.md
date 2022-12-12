@@ -1,11 +1,10 @@
 ###### Multi board v3 by DrBork
 ###### [borkelectronics.com](https://borkelectronics.com)
 
-# Now available on my store! restocks will happen every few weeks!
+# Pre orders available Q1 2023
 
 This board is a combination of some popular boards/modules for the flipper zero. its compatible with an ESP32 S2 SOLO and ESP32 S3 WROOM 1/1U and with the standard NRF24 module with an external or internal antenna
 
-BOM for the board will be posted [here](https://drb0rk.github.io/) soon!
 
 ## Summary:
 - use NRF sniffer and mousejacker apps on the Flipper to inject keystrokes wirelessly through the NRF24 module
