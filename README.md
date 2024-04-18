@@ -1,6 +1,6 @@
 # Flipper-Zero-Boards
 
-## im selling the boards on my store [here](https://www.borklab.com/)
+## im selling the boards on my store [here](https://www.borkelectronics.com/)
 
 ## join my discord         --> [here](https://discord.gg/AVAeRuQTN2)
 
